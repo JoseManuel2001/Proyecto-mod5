@@ -286,6 +286,11 @@ function Footer() {
       </div>
 
       <div className="footer-bottom">
+        <span>
+          <p>Contacto</p>
+          <p>Gabriela Martinez Gomez</p>
+          <p>+52 55 3641 3438</p>
+        </span>
         <span />
         <p>© 2026 ByGaby Studio. Todos los derechos reservados.</p>
         <span />
