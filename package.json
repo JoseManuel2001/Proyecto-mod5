@@ -31,6 +31,7 @@
     "webpack-dev-server": "^6.0.0"
   },
   "devDependencies": {
-    "http-server": "^14.1.1"
+    "http-server": "^14.1.1",
+    "workbox-webpack-plugin": "^7.4.1"
   }
 }
